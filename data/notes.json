@@ -1,0 +1,114 @@
+[
+  {
+    "batch": "SSC Batch 2026",
+    "subjects": [
+      {
+        "subjectName": "পদার্থবিজ্ঞান",
+        "types": [
+          {
+            "typeName": "দাগানো বই",
+            "files": [
+              {
+                "id": 1,
+                "title": "ভৌত রাশি ও পরিমাপ",
+                "driveId": "1wAiQycQ0JEA65C1k3__usGjwD90NFodc"
+              },
+              { "id": 2, "title": "গতি", "driveId": "ID_2" }
+            ]
+          },
+          {
+            "typeName": "অধ্যায়ের নোট",
+            "files": [
+              { "id": 3, "title": "বল - হ্যান্ডনোট", "driveId": "ID_3" }
+            ]
+          },
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [{ "id": 4, "title": "তাপগতিবিদ্যা", "driveId": "ID_4" }]
+          }
+        ]
+      },
+      {
+        "subjectName": "রসায়ন",
+        "types": [
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [{ "id": 5, "title": "রাসায়নের পরিচয়", "driveId": "ID_5" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "SSC Batch 2027",
+    "subjects": [
+      {
+        "subjectName": "পদার্থবিজ্ঞান",
+        "types": [
+          {
+            "typeName": "দাগানো বই",
+            "files": [
+              { "id": 1, "title": "ভৌত রাশি ও পরিমাপ", "driveId": "ID_1" },
+              { "id": 2, "title": "গতি", "driveId": "ID_2" }
+            ]
+          },
+          {
+            "typeName": "অধ্যায়ের নোট",
+            "files": [
+              { "id": 3, "title": "বল - হ্যান্ডনোট", "driveId": "ID_3" }
+            ]
+          },
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [{ "id": 4, "title": "তাপগতিবিদ্যা", "driveId": "ID_4" }]
+          }
+        ]
+      },
+      {
+        "subjectName": "রসায়ন",
+        "types": [
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [{ "id": 5, "title": "রাসায়নের পরিচয়", "driveId": "ID_5" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "SSC Batch 2028",
+    "subjects": [
+      {
+        "subjectName": "পদার্থবিজ্ঞান",
+        "types": [
+          {
+            "typeName": "দাগানো বই",
+            "files": [
+              { "id": 1, "title": "ভৌত রাশি ও পরিমাপ", "driveId": "ID_1" },
+              { "id": 2, "title": "গতি", "driveId": "ID_2" }
+            ]
+          },
+          {
+            "typeName": "অধ্যায়ের নোট",
+            "files": [
+              { "id": 3, "title": "বল - হ্যান্ডনোট", "driveId": "ID_3" }
+            ]
+          },
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [{ "id": 4, "title": "তাপগতিবিদ্যা", "driveId": "ID_4" }]
+          }
+        ]
+      },
+      {
+        "subjectName": "রসায়ন",
+        "types": [
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [{ "id": 5, "title": "রাসায়নের পরিচয়", "driveId": "ID_5" }]
+          }
+        ]
+      }
+    ]
+  }
+]
