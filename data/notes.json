@@ -7,24 +7,15 @@
         "types": [
           {
             "typeName": "দাগানো বই",
-            "files": [
-              {
-                "id": 1,
-                "title": "ভৌত রাশি ও পরিমাপ",
-                "driveId": "1wAiQycQ0JEA65C1k3__usGjwD90NFodc"
-              },
-              { "id": 2, "title": "গতি", "driveId": "ID_2" }
-            ]
+            "files": []
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": [
-              { "id": 3, "title": "বল - হ্যান্ডনোট", "driveId": "ID_3" }
-            ]
+            "files": []
           },
           {
             "typeName": "ক্লাসের স্লাইড",
-            "files": [{ "id": 4, "title": "তাপগতিবিদ্যা", "driveId": "ID_4" }]
+            "files": []
           }
         ]
       },
@@ -32,8 +23,16 @@
         "subjectName": "রসায়ন",
         "types": [
           {
+            "typeName": "দাগানো বই",
+            "files": []
+          },
+          {
+            "typeName": "অধ্যায়ের নোট",
+            "files": []
+          },
+          {
             "typeName": "ক্লাসের স্লাইড",
-            "files": [{ "id": 5, "title": "রাসায়নের পরিচয়", "driveId": "ID_5" }]
+            "files": []
           }
         ]
       }
@@ -48,19 +47,16 @@
           {
             "typeName": "দাগানো বই",
             "files": [
-              { "id": 1, "title": "ভৌত রাশি ও পরিমাপ", "driveId": "ID_1" },
-              { "id": 2, "title": "গতি", "driveId": "ID_2" }
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1QxpUC5RIOLZM8J5vmMTM9LjekyzrlTnR" }
             ]
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": [
-              { "id": 3, "title": "বল - হ্যান্ডনোট", "driveId": "ID_3" }
-            ]
+            "files": []
           },
           {
             "typeName": "ক্লাসের স্লাইড",
-            "files": [{ "id": 4, "title": "তাপগতিবিদ্যা", "driveId": "ID_4" }]
+            "files": []
           }
         ]
       },
@@ -68,8 +64,18 @@
         "subjectName": "রসায়ন",
         "types": [
           {
+            "typeName": "দাগানো বই",
+            "files": [
+              { "id": 1, "title": "রসায়নের ধারণা", "driveId": "1gcgqm5wOixY1nWhAZt22UFKZwPIIFw9t" }
+            ]
+          },
+          {
+            "typeName": "অধ্যায়ের নোট",
+            "files": []
+          },
+          {
             "typeName": "ক্লাসের স্লাইড",
-            "files": [{ "id": 5, "title": "রাসায়নের পরিচয়", "driveId": "ID_5" }]
+            "files": []
           }
         ]
       }
@@ -83,20 +89,15 @@
         "types": [
           {
             "typeName": "দাগানো বই",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি ও পরিমাপ", "driveId": "ID_1" },
-              { "id": 2, "title": "গতি", "driveId": "ID_2" }
-            ]
+            "files": []
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": [
-              { "id": 3, "title": "বল - হ্যান্ডনোট", "driveId": "ID_3" }
-            ]
+            "files": []
           },
           {
             "typeName": "ক্লাসের স্লাইড",
-            "files": [{ "id": 4, "title": "তাপগতিবিদ্যা", "driveId": "ID_4" }]
+            "files": []
           }
         ]
       },
@@ -104,11 +105,20 @@
         "subjectName": "রসায়ন",
         "types": [
           {
+            "typeName": "দাগানো বই",
+            "files": []
+          },
+          {
+            "typeName": "অধ্যায়ের নোট",
+            "files": []
+          },
+          {
             "typeName": "ক্লাসের স্লাইড",
-            "files": [{ "id": 5, "title": "রাসায়নের পরিচয়", "driveId": "ID_5" }]
+            "files": []
           }
         ]
       }
     ]
   }
 ]
+
