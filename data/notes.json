@@ -91,7 +91,9 @@
         "types": [
           {
             "typeName": "দাগানো বই",
-            "files": []
+            "files": [
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1cSxqoHwPAIng_TFZd6nyaxuMALsKyDMx" }
+            ]
           },
           {
             "typeName": "অধ্যায়ের নোট",
@@ -123,5 +125,6 @@
     ]
   }
 ]
+
 
 
