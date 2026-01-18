@@ -13,7 +13,9 @@
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": []
+            "files": [
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
+            ]
           },
           {
             "typeName": "ক্লাসের স্লাইড",
@@ -54,7 +56,9 @@
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": []
+            "files": [
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
+            ]
           },
           {
             "typeName": "ক্লাসের স্লাইড",
@@ -97,7 +101,9 @@
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": []
+            "files": [
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
+            ]
           },
           {
             "typeName": "ক্লাসের স্লাইড",
@@ -125,6 +131,7 @@
     ]
   }
 ]
+
 
 
 
