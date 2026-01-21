@@ -16,10 +16,6 @@
             "files": [
               { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
             ]
-          },
-          {
-            "typeName": "ক্লাসের স্লাইড",
-            "files": []
           }
         ]
       },
@@ -32,10 +28,6 @@
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": []
-          },
-          {
-            "typeName": "ক্লাসের স্লাইড",
             "files": []
           }
         ]
@@ -59,10 +51,6 @@
             "files": [
               { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
             ]
-          },
-          {
-            "typeName": "ক্লাসের স্লাইড",
-            "files": []
           }
         ]
       },
@@ -81,7 +69,9 @@
           },
           {
             "typeName": "ক্লাসের স্লাইড",
-            "files": []
+            "files": [
+              { "id": 1, "title": "বেসিক", "driveId": "1tCjMgkRQ0pzkyKNnmBbAfoR1ROkRMWfR" }
+            ]
           }
         ]
       }
@@ -104,10 +94,6 @@
             "files": [
               { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
             ]
-          },
-          {
-            "typeName": "ক্লাসের স্লাইড",
-            "files": []
           }
         ]
       },
@@ -124,13 +110,16 @@
           },
           {
             "typeName": "ক্লাসের স্লাইড",
-            "files": []
+            "files": [
+              { "id": 1, "title": "বেসিক", "driveId": "1tCjMgkRQ0pzkyKNnmBbAfoR1ROkRMWfR" }
+            ]
           }
         ]
       }
     ]
   }
 ]
+
 
 
 
