@@ -8,13 +8,25 @@
           {
             "typeName": "দাগানো বই",
             "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1QxpUC5RIOLZM8J5vmMTM9LjekyzrlTnR" }
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1QxpUC5RIOLZM8J5vmMTM9LjekyzrlTnR" },
             ]
           },
           {
             "typeName": "অধ্যায়ের নোট",
             "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
+              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" },
+              { "id": 2, "title": "গতি", "driveId": "1PZ9A4uIXLAw1r-8cRtp5IrRdPcDdAcIb" },
+              { "id": 3, "title": "বল", "driveId": "18S1MmZHJCwJsUY1hNIhKt132JCL-9TlS" },
+              { "id": 4, "title": "কাজ, ক্ষমতা ও শক্তি", "driveId": "171sWvgpU0-hkwuKeFSZ8xn9nztfEd09y" },
+              { "id": 7, "title": "তরঙ্গ ও শব্দ", "driveId": "1iuP6GMd5uaBqdYFcCivJe9NBMZZuld7L" },
+              { "id": 8, "title": "আলোর প্রতিফলন", "driveId": "1GxCE29tdZUBeFaf3Uoej65uVNRlMbF1w" },
+              { "id": 10, "title": "স্থির বিদ্যুৎ", "driveId": "1nXLZTI8mSGjfBGxyb6gIK41sKgiRvv3x" }
+            ]
+          },
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [
+              { "id": 1, "title": "গ্রিক বর্ণমালা", "driveId": "1s8EYiKSRUkNQDYs3Zi3q6Xk3bfdqmSLM" }
             ]
           }
         ]
@@ -50,6 +62,12 @@
             "typeName": "অধ্যায়ের নোট",
             "files": [
               { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
+            ]
+          },
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [
+              { "id": 1, "title": "গ্রিক বর্ণমালা", "driveId": "1s8EYiKSRUkNQDYs3Zi3q6Xk3bfdqmSLM" }
             ]
           }
         ]
@@ -94,6 +112,12 @@
             "files": [
               { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
             ]
+          },
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [
+              { "id": 1, "title": "গ্রিক বর্ণমালা", "driveId": "1s8EYiKSRUkNQDYs3Zi3q6Xk3bfdqmSLM" }
+            ]
           }
         ]
       },
@@ -119,6 +143,7 @@
     ]
   }
 ]
+
 
 
 
