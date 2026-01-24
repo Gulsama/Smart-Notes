@@ -40,7 +40,12 @@
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": []
+            "files": [
+              { "id": 3, "title": "পদার্থের গঠন", "driveId": "1Fkkku6Hu-QOBJ1icMgOb3D9Hi3WuGmtg" },
+              { "id": 4, "title": "পর্যায় সারণি", "driveId": "14ad4lypom3_tSyT1RZH9oFiPEPN0ahGF" },
+              { "id": 5, "title": "রাসায়নিক বন্ধন", "driveId": "1d2P9NZwzde-AMVbdtNN3lEic-CEugV2g" },
+              { "id": 11, "title": "খনিজ সম্পদ: জীবাশ্ম", "driveId": "1zb3s0vKsNyCyxLHFwf9gzYEA08xr_1MR" }
+            ]
           }
         ]
       }
@@ -143,6 +148,7 @@
     ]
   }
 ]
+
 
 
 
