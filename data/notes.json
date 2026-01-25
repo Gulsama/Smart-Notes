@@ -48,6 +48,17 @@
             ]
           }
         ]
+      },
+      {
+        "subjectName": "জীববিজ্ঞান",
+        "types": [
+          {
+            "typeName": "ক্লাসের স্লাইড",
+            "files": [
+              { "id": 3, "title": "কোষ বিভাজন", "driveId": "14C3F7VxmS_SpZg9o1dUjs4WpYO_AUjBI" }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -148,6 +159,7 @@
     ]
   }
 ]
+
 
 
 
