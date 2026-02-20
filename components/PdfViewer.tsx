@@ -40,14 +40,14 @@ export default function PdfViewer({ fileId, onClose }: PdfViewerProps) {
         বন্ধ করুন
       </button>
       <div className="relative w-full h-full overflow-hidden">
-        <div className="absolute inset-0 z-10">
+        <div className="absolute top-0 right-0 size-20 z-20 bg-transparent"></div>
           <iframe
             src={`https://drive.google.com/file/d/${fileId}/preview`}
-            className="w-full h-full border-none"
+            className="relative w-full h-full border-none z-10"
             allow="autoplay"
           ></iframe>
-        </div>
       </div>
     </div>
   );
 }
+
