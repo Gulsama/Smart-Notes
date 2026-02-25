@@ -46,6 +46,12 @@
               { "id": 5, "title": "রাসায়নিক বন্ধন", "driveId": "1d2P9NZwzde-AMVbdtNN3lEic-CEugV2g" },
               { "id": 11, "title": "খনিজ সম্পদ: জীবাশ্ম", "driveId": "1zb3s0vKsNyCyxLHFwf9gzYEA08xr_1MR" }
             ]
+          },
+          {
+            "typeName": "অনুশীলন",
+            "files": [
+              { "id": 3, "title": "পদার্থের গঠন", "driveId": "1uQSzUehgWE05EJtsnmD_8LdEjGCLoIHg" }
+            ]
           }
         ]
       },
@@ -171,6 +177,7 @@
     ]
   }
 ]
+
 
 
 
