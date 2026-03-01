@@ -54,77 +54,11 @@
             ]
           }
         ]
-      },
-      {
-        "subjectName": "জীববিজ্ঞান",
-        "types": [
-          {
-            "typeName": "ক্লাসের স্লাইড",
-            "files": [
-              { "id": 3, "title": "কোষ বিভাজন", "driveId": "14C3F7VxmS_SpZg9o1dUjs4WpYO_AUjBI" }
-            ]
-          }
-        ]
       }
     ]
   },
   {
-    "batch": "SSC Batch 2027",
-    "subjects": [
-      {
-        "subjectName": "পদার্থবিজ্ঞান",
-        "types": [
-          {
-            "typeName": "দাগানো বই",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1QxpUC5RIOLZM8J5vmMTM9LjekyzrlTnR" }
-            ]
-          },
-          {
-            "typeName": "অধ্যায়ের নোট",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
-            ]
-          },
-          {
-            "typeName": "গাণিতিক",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1fzsHeI651l6GwE5RUYypcUTQg0n4-464" }
-            ]
-          },
-          {
-            "typeName": "ক্লাসের স্লাইড",
-            "files": [
-              { "id": 1, "title": "গ্রিক বর্ণমালা", "driveId": "1s8EYiKSRUkNQDYs3Zi3q6Xk3bfdqmSLM" }
-            ]
-          }
-        ]
-      },
-      {
-        "subjectName": "রসায়ন",
-        "types": [
-          {
-            "typeName": "দাগানো বই",
-            "files": [
-              { "id": 1, "title": "রসায়নের ধারণা", "driveId": "1gcgqm5wOixY1nWhAZt22UFKZwPIIFw9t" }
-            ]
-          },
-          {
-            "typeName": "অধ্যায়ের নোট",
-            "files": []
-          },
-          {
-            "typeName": "ক্লাসের স্লাইড",
-            "files": [
-              { "id": 1, "title": "বেসিক", "driveId": "1tCjMgkRQ0pzkyKNnmBbAfoR1ROkRMWfR" }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "batch": "SSC Batch 2028",
+    "batch": "SSC Batch 2027 & 2028",
     "subjects": [
       {
         "subjectName": "পদার্থবিজ্ঞান",
@@ -160,7 +94,9 @@
         "types": [
           {
             "typeName": "দাগানো বই",
-            "files": []
+            "files": [
+              { "id": 1, "title": "রসায়নের ধারণা", "driveId": "15pB8F9xA-LUxU5vmloMnNsdsB6xTmyY-" }
+            ]
           },
           {
             "typeName": "অধ্যায়ের নোট",
@@ -177,6 +113,7 @@
     ]
   }
 ]
+
 
 
 
