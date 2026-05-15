@@ -5,6 +5,8 @@ import PdfViewer from "../components/PdfViewer";
 
 export default function HomePage() {
   const [activePdf, setActivePdf] = useState<string | null>(null);
+  const currentYear = new Date().getFullYear();
+  const batchName = `SSC Batch ${currentYear} & ${currentYear + 1}`;
 
   return (
     <main className="min-h-screen bg-slate-950 py-10 px-4">
@@ -20,7 +22,7 @@ export default function HomePage() {
         {notesData.map((batchData, batchIndex) => (
           <div key={batchIndex} className="mb-8 border-slate-800">
             <h2 className="text-2xl font-black text-blue-400 mb-4">
-              {batchData.batch}
+              {batchName}
             </h2>
             <div className="space-y-6">
               {batchData.subjects.map((subject, subjectIndex) => (
@@ -71,7 +73,7 @@ export default function HomePage() {
         )}
         <footer className="text-center border-t border-slate-800 pt-8">
           <p className="text-slate-500 text-sm mb-4">
-            © {new Date().getFullYear()} স্মার্ট নোটস. সর্বস্বত্ব সংরক্ষিত.
+            © {currentYear} স্মার্ট নোটস. সর্বস্বত্ব সংরক্ষিত.
           </p>
           <div className="flex justify-center items-center gap-2 mb-2">
             <span className="text-slate-400">Developed by</span>
