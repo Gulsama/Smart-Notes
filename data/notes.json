@@ -1,6 +1,5 @@
 [
   {
-    "batch": "SSC Batch 2026",
     "subjects": [
       {
         "subjectName": "পদার্থবিজ্ঞান",
@@ -8,84 +7,46 @@
           {
             "typeName": "দাগানো বই",
             "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1cSxqoHwPAIng_TFZd6nyaxuMALsKyDMx" }
+              {
+                "id": 1,
+                "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+                "driveId": "1cSxqoHwPAIng_TFZd6nyaxuMALsKyDMx"
+              }
             ]
           },
           {
             "typeName": "অধ্যায়ের নোট",
             "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" },
-              { "id": 2, "title": "গতি", "driveId": "1PZ9A4uIXLAw1r-8cRtp5IrRdPcDdAcIb" },
-              { "id": 3, "title": "বল", "driveId": "18S1MmZHJCwJsUY1hNIhKt132JCL-9TlS" },
-              { "id": 4, "title": "কাজ, ক্ষমতা ও শক্তি", "driveId": "171sWvgpU0-hkwuKeFSZ8xn9nztfEd09y" },
-              { "id": 7, "title": "তরঙ্গ ও শব্দ", "driveId": "1iuP6GMd5uaBqdYFcCivJe9NBMZZuld7L" },
-              { "id": 8, "title": "আলোর প্রতিফলন", "driveId": "1GxCE29tdZUBeFaf3Uoej65uVNRlMbF1w" },
-              { "id": 10, "title": "স্থির বিদ্যুৎ", "driveId": "1nXLZTI8mSGjfBGxyb6gIK41sKgiRvv3x" }
+              {
+                "id": 1,
+                "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+                "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW"
+              }
             ]
           },
           {
             "typeName": "গাণিতিক",
             "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1fzsHeI651l6GwE5RUYypcUTQg0n4-464" }
-            ]
-          }
-        ]
-      },
-      {
-        "subjectName": "রসায়ন",
-        "types": [
-          {
-            "typeName": "দাগানো বই",
-            "files": []
-          },
-          {
-            "typeName": "অধ্যায়ের নোট",
-            "files": [
-              { "id": 3, "title": "পদার্থের গঠন", "driveId": "1Fkkku6Hu-QOBJ1icMgOb3D9Hi3WuGmtg" },
-              { "id": 4, "title": "পর্যায় সারণি", "driveId": "14ad4lypom3_tSyT1RZH9oFiPEPN0ahGF" },
-              { "id": 5, "title": "রাসায়নিক বন্ধন", "driveId": "1d2P9NZwzde-AMVbdtNN3lEic-CEugV2g" },
-              { "id": 11, "title": "খনিজ সম্পদ: জীবাশ্ম", "driveId": "1zb3s0vKsNyCyxLHFwf9gzYEA08xr_1MR" }
-            ]
-          },
-          {
-            "typeName": "অনুশীলন",
-            "files": [
-              { "id": 3, "title": "পদার্থের গঠন", "driveId": "1uQSzUehgWE05EJtsnmD_8LdEjGCLoIHg" }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "batch": "SSC Batch 2027 & 2028",
-    "subjects": [
-      {
-        "subjectName": "পদার্থবিজ্ঞান",
-        "types": [
-          {
-            "typeName": "দাগানো বই",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1cSxqoHwPAIng_TFZd6nyaxuMALsKyDMx" }
-            ]
-          },
-          {
-            "typeName": "অধ্যায়ের নোট",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW" }
-            ]
-          },
-          {
-            "typeName": "গাণিতিক",
-            "files": [
-              { "id": 1, "title": "ভৌত রাশি এবং তাদের পরিমাপ", "driveId": "1fzsHeI651l6GwE5RUYypcUTQg0n4-464" },
-              { "id": 2, "title": "গতি", "driveId": "13MXMJjaIRHUjlGO5hErfnQpexkdCSLLA" }
+              {
+                "id": 1,
+                "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+                "driveId": "1fzsHeI651l6GwE5RUYypcUTQg0n4-464"
+              },
+              {
+                "id": 2,
+                "title": "গতি",
+                "driveId": "13MXMJjaIRHUjlGO5hErfnQpexkdCSLLA"
+              }
             ]
           },
           {
             "typeName": "ক্লাসের স্লাইড",
             "files": [
-              { "id": 1, "title": "গ্রিক বর্ণমালা", "driveId": "1s8EYiKSRUkNQDYs3Zi3q6Xk3bfdqmSLM" }
+              {
+                "id": 1,
+                "title": "গ্রিক বর্ণমালা",
+                "driveId": "1s8EYiKSRUkNQDYs3Zi3q6Xk3bfdqmSLM"
+              }
             ]
           }
         ]
@@ -96,7 +57,11 @@
           {
             "typeName": "দাগানো বই",
             "files": [
-              { "id": 1, "title": "রসায়নের ধারণা", "driveId": "15pB8F9xA-LUxU5vmloMnNsdsB6xTmyY-" }
+              {
+                "id": 1,
+                "title": "রসায়নের ধারণা",
+                "driveId": "15pB8F9xA-LUxU5vmloMnNsdsB6xTmyY-"
+              }
             ]
           },
           {
@@ -106,13 +71,21 @@
           {
             "typeName": "ক্লাসের স্লাইড",
             "files": [
-              { "id": 1, "title": "বেসিক", "driveId": "1tCjMgkRQ0pzkyKNnmBbAfoR1ROkRMWfR" }
+              {
+                "id": 1,
+                "title": "বেসিক",
+                "driveId": "1tCjMgkRQ0pzkyKNnmBbAfoR1ROkRMWfR"
+              }
             ]
           },
           {
             "typeName": "অনুশীলন",
             "files": [
-              { "id": 3, "title": "পদার্থের গঠন", "driveId": "1uQSzUehgWE05EJtsnmD_8LdEjGCLoIHg" }
+              {
+                "id": 3,
+                "title": "পদার্থের গঠন",
+                "driveId": "1uQSzUehgWE05EJtsnmD_8LdEjGCLoIHg"
+              }
             ]
           }
         ]
@@ -120,17 +93,3 @@
     ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
