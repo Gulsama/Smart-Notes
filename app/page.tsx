@@ -6,7 +6,7 @@ import PdfViewer from "../components/PdfViewer";
 export default function HomePage() {
   const [activePdf, setActivePdf] = useState<string | null>(null);
   const currentYear = new Date().getFullYear();
-  const batchName = `SSC Batch ${currentYear} & ${currentYear + 1}`;
+  const batchName = `SSC Batch ${currentYear + 1} & ${currentYear + 2}`;
 
   return (
     <main className="min-h-screen bg-slate-950 py-10 px-4">
