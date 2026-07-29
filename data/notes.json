@@ -10,7 +10,17 @@
               {
                 "id": 1,
                 "title": "ভৌত রাশি এবং তাদের পরিমাপ",
-                "driveId": "1cSxqoHwPAIng_TFZd6nyaxuMALsKyDMx"
+                "driveId": "18ahCsP4qEip4qfvcNAAxI5EYmtYxwg9x"
+              },
+              {
+                "id": 2,
+                "title": "গতি",
+                "driveId": "1eAVUBPSlvZ-0ER6rqUli4q3cZ2X8c1s_"
+              },
+              {
+                "id": 3,
+                "title": "বল",
+                "driveId": "1nX3jq3g_6lqOhPD8p4wDEhDUVVWo-pgC"
               }
             ]
           },
@@ -20,24 +30,18 @@
               {
                 "id": 1,
                 "title": "ভৌত রাশি এবং তাদের পরিমাপ",
-                "driveId": "18rEwol_Z6apRmkbaCZiF10whakx1LXmW"
-              }
-            ]
-          },
-          {
-            "typeName": "গাণিতিক",
-            "files": [
-              {
-                "id": 1,
-                "title": "ভৌত রাশি এবং তাদের পরিমাপ",
-                "driveId": "1fzsHeI651l6GwE5RUYypcUTQg0n4-464"
+                "driveId": "1Szgk5UYJP9zb9KpsrK2CXXZh73lqy6vG"
               },
               {
                 "id": 2,
                 "title": "গতি",
-                "driveId": "13MXMJjaIRHUjlGO5hErfnQpexkdCSLLA"
+                "driveId": "1Eh27fP5mHZ9IiVOaro8n6RLefbXqol0d"
               }
             ]
+          },
+          {
+            "typeName": "অনুশীলন",
+            "files": []
           }
         ]
       },
@@ -51,12 +55,28 @@
                 "id": 1,
                 "title": "রসায়নের ধারণা",
                 "driveId": "13sqCfSzCjEoM-zzdwBI9fVe5L03YRv7n"
+              },
+              {
+                "id": 2,
+                "title": "পদার্থের অবস্থা",
+                "driveId": "11551UYpsR6qZyCibf0yUhgckAUT-6J_3"
               }
             ]
           },
           {
             "typeName": "অধ্যায়ের নোট",
-            "files": []
+            "files": [
+              {
+                "id": 1,
+                "title": "রসায়নের ধারণা",
+                "driveId": "1OxYyApbQ5nQBfth-hQ1fJdKfKWptIsv1"
+              },
+              {
+                "id": 2,
+                "title": "পদার্থের অবস্থা",
+                "driveId": "10pQoDNFLKSc1DfVs-rKkSimjljBA-YDW"
+              }
+            ]
           },
           {
             "typeName": "অনুশীলন",
