@@ -87,9 +87,24 @@
                 "driveId": "1bsBWc2uSkt6s8rj9dRmYnquACIEOl5GX"
               },
               {
+                "id": 7,
+                "title": "রাসায়নিক বিক্রিয়া",
+                "driveId": "1lFsb0mdL8i5C_Dgm-yBrw70Z42RA0flA"
+              },
+              {
+                "id": 8,
+                "title": "রসায়ন ও শক্তি",
+                "driveId": "1yvbmkxq5BE3oqzTDOM9ShKrybegp8ers"
+              },
+              {
                 "id": 11,
                 "title": "খনিজ সম্পদ: জীবাশ্ম",
                 "driveId": "1kGqhnplQN0JeTr_oMkpMziAhIvXqwZ_H"
+              },
+              {
+                "id": 12,
+                "title": "আমাদের জীবনে রসায়ন",
+                "driveId": "1LGEsL10vgaTY8SWhGV06-zG7WuIStHlN"
               }
             ]
           },
