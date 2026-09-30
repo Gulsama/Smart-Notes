@@ -21,6 +21,36 @@
                 "id": 3,
                 "title": "বল",
                 "driveId": "1nX3jq3g_6lqOhPD8p4wDEhDUVVWo-pgC"
+              },
+              {
+                "id": 8,
+                "title": "আলোর প্রতিফলন",
+                "driveId": "1DUlGOaivOnuqDDWSBX8xvc6OtMqkD1jk"
+              },
+              {
+                "id": 9,
+                "title": "আলোর প্রতিসরণ",
+                "driveId": "1BkKpTZh4H50Ivoh0uDqAJkqJRVsdexX4"
+              },
+              {
+                "id": 10,
+                "title": "স্থির বিদ্যুৎ",
+                "driveId": "1RNA7l3hPfHYZpONPgmbaZ5Hs3ojIKZj-"
+              },
+              {
+                "id": 11,
+                "title": "চল বিদ্যুৎ",
+                "driveId": "1zwL-am-YjMXxLp1i_5Qr9LXw9LOfEkCc"
+              },
+              {
+                "id": 12,
+                "title": "বিদ্যুতের চৌম্বক ক্রিয়া",
+                "driveId": "1EfsCJz37udo4Kx33pYBpVacQqEHhwEAC"
+              },
+              {
+                "id": 13,
+                "title": "তেজস্ক্রিয়তা ও ইলেকট্রনিকস",
+                "driveId": "1vDkBcI2ESKb0YqSn9BcpBh-t4FmbKuCS"
               }
             ]
           },
